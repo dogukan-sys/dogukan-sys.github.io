@@ -1,8 +1,9 @@
 ---
 title: Zahlensysteme
-date: 2023-10-20 13:14:10 -500
+date: 2023-10-20 13:14:00
 categories: [STD,Kanders]
-tags: [zahlensysteme, std, binärzahlen,]     # TAG names should always be lowercase
+author: dogukan
+tags: [zahlensysteme, std, binärzahlen,]
 ---
 
 ## Bekannte Zahlensysteme
