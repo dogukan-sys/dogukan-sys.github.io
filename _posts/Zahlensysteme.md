@@ -1,7 +1,7 @@
 ---
 title: Zahlensysteme
-date: 2023-10-20 13:14:10 
-categories: [STD, Kanders]
+date: 2023-10-20 13:14:10 -500
+categories: [STD,Kanders]
 tags: [zahlensysteme, std, binärzahlen,]     # TAG names should always be lowercase
 ---
 
