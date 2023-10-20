@@ -1,8 +1,8 @@
 ---
 title: Zahlensysteme
-date: 2023-10-20 13:14:00 +0200
+date: 2023-10-20 1:14:00 +0200
 categories: [STD,Kanders]
-tags: [zahlensysteme, std, binärzahlen,]
+tags: [zahlensysteme,std,binärzahlen,]
 ---
 
 ## Bekannte Zahlensysteme
