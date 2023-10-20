@@ -12,7 +12,7 @@ tags: [rechtssubjekte, rechtsobjekte, rechtsverkehr, natürliche personen, juris
 - Rechtssubjekte sind die handelnden Akteure im Rechtsverkehr.
 - Sie sind alle Personen, die dazu befugt sind, Rechte und Pflichten zu übernehmen und rechtlich bedeutende Entscheidungen zu treffen.
   - Dazu gehört die Begründung, Änderung und Aufhebung von Rechtsverhältnissen.
-- Die [Rechtsfähigkeit](../Rechtsfähigkeit-Geschäftsfähigkeit/#rechtsfähigkeit) eines Rechtssubjekts bestimmt seine Befugnis, Rechte und Pflichten auszuüben.
+- Die [Rechtsfähigkeit]({% post_url ./2023-10-20-Rechtsfähigkeit-Geschäftsfähigkeit %}) eines Rechtssubjekts bestimmt seine Befugnis, Rechte und Pflichten auszuüben.
 
 ## Rechtsobjekte
 
@@ -24,8 +24,8 @@ tags: [rechtssubjekte, rechtsobjekte, rechtsverkehr, natürliche personen, juris
 ### Natürliche Personen
 
 - Natürliche Personen sind alle Menschen, unabhängig von Staatsbürgerschaft, Religion oder persönlichen Eigenschaften.
-- Die [Rechtsfähigkeit](../Rechtsfähigkeit-Geschäftsfähigkeit/#rechtsfähigkeit) einer natürlichen Person beginnt mit der Geburt und endet mit dem Tod.
-- Die [Rechtsfähigkeit](../Rechtsfähigkeit-Geschäftsfähigkeit/#rechtsfähigkeit) kann nicht aberkannt, übertragen oder durch Verzichtserklärung aufgegeben werden.
+- Die [Rechtsfähigkeit]({% post_url ./2023-10-20-Rechtsfähigkeit-Geschäftsfähigkeit %}) einer natürlichen Person beginnt mit der Geburt und endet mit dem Tod.
+- Die [Rechtsfähigkeit]({% post_url ./2023-10-20-Rechtsfähigkeit-Geschäftsfähigkeit %}) kann nicht aberkannt, übertragen oder durch Verzichtserklärung aufgegeben werden.
 
 ### Juristische Personen
 
