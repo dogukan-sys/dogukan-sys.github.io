@@ -1,6 +1,6 @@
 ---
 title: Zahlensysteme
-date: 2023-10-20 13:14:00
+date: 2023-10-20 13:14:00 +0200
 categories: [STD,Kanders]
 author: dogukan
 tags: [zahlensysteme, std, binärzahlen,]
