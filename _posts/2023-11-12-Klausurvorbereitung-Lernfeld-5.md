@@ -82,14 +82,14 @@ _Beispiel:_ In einem E-Commerce-System kannst du das Aussehen und die Farben der
 
 ### Neuentwicklung
 
-**Erklärung:** Reichen die Möglichkeiten von Customizing und Erweiterungsprogrammierung nicht aus, Wird die Software komplett neu als Individualsoftware entwickelt.
-_Beispiel:_ Angenommen, du nutzt eine veraltete Notiz-App, die grundlegende Funktionen bietet. Die Entwickler entscheiden sich jedoch, die App von Grund auf neu zu erstellen. Die Neuentwicklung würde bedeuten, dass sie die gesamte App von Anfang an neu schreiben, um sie moderner, schneller und mit erweiterten Funktionen zu gestalten. Denke an Evernote als Beispiel, das über die Jahre mehrere Neuentwicklungen durchlaufen hat, um seinen Funktionsumfang zu erweitern.
+- **Erklärung:** Reichen die Möglichkeiten von Customizing und Erweiterungsprogrammierung nicht aus, Wird die Software komplett neu als Individualsoftware entwickelt.
+- _Beispiel:_ Angenommen, du nutzt eine veraltete Notiz-App, die grundlegende Funktionen bietet. Die Entwickler entscheiden sich jedoch, die App von Grund auf neu zu erstellen. Die Neuentwicklung würde bedeuten, dass sie die gesamte App von Anfang an neu schreiben, um sie moderner, schneller und mit erweiterten Funktionen zu gestalten. Denke an Evernote als Beispiel, das über die Jahre mehrere Neuentwicklungen durchlaufen hat, um seinen Funktionsumfang zu erweitern.
 
 ### Datenmigration
 
-**Erklärung:** Bei der Datenmigration Wird ein vorhandenes System zur Verwaltung von Daten durch ein neues ersetzt. Dabei müssen die Daten vom Altsystem auf
+- **Erklärung:** Bei der Datenmigration Wird ein vorhandenes System zur Verwaltung von Daten durch ein neues ersetzt. Dabei müssen die Daten vom Altsystem auf
 das neue System übertragen werden.
-_Beispiel:_  Bei der Einführung einer neuen Version von Facebook ändert das Unternehmen die Datenbankstruktur, um die Effizienz zu steigern. Die Datenmigration gewährleistet, dass alle bestehenden Benutzerprofile, Beiträge und Verbindungen ohne Datenverlust in das aktualisierte System übertragen werden.
+- _Beispiel:_  Bei der Einführung einer neuen Version von Facebook ändert das Unternehmen die Datenbankstruktur, um die Effizienz zu steigern. Die Datenmigration gewährleistet, dass alle bestehenden Benutzerprofile, Beiträge und Verbindungen ohne Datenverlust in das aktualisierte System übertragen werden.
 
 ---
 
@@ -103,6 +103,8 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
 - zeitliche, finanzielle, personelle oder andere Begrenzungen,
 - Abgrenzungen gegenüber anderen Vorhaben,
 - projektspezifische Organisation.
+
+---
 
 ## Interne Projektstruktur
 
