@@ -118,9 +118,11 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
   - **Zusammensetzung:** Jede Teilprojektleitung hat ihr eigenes Projektteam.
   - **Aufgaben:** Das Team ist verantwortlich für die Durchführung der Aufgaben, die von der Teilprojektleitung zugewiesen wurden.
 
-# Projektphasen
+---
 
-![[../assets/img/projektphasen.png]]
+## Projektphasen
+
+![projektphasen](../assets/img/projektphasen.png)
 
 - Projektstart:
   - **Ziel:** Klare Definition der Projektziele, Anforderungen und Hauptbeteiligten.
@@ -138,23 +140,27 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
   - **Ziel:** Formaler Abschluss des Projekts und Übergabe der Ergebnisse an die Stakeholder.
   - **Aktivitäten:** Erstellung von Abschlussberichten, Evaluation des Projekterfolgs, Feierlichkeiten für das Team und Übergabe der Software an den Kunden.
 
-# Software Lebenszyklus (SDLC)
-! [Pasted image 20231111235950.png]]
-#### Anforderungsanalyse und Erstellung einer Spezifikation
-- **Ziel:** Festlegung der Anforderungen an die Software.
-- **Aktivitäten:** Erfassen von Kundenwünschen, Erstellung von Pflichten- und Lastenheften, Analyse von Geschäftsprozessen und Daten.
-#### Design
-- **Ziel:** Entwurf der Software unter Verwendung von Modellen.
-- **Aktivitäten:** Erstellung von UML-Klassendiagrammen, Struktogrammen für Algorithmen, Abgrenzung relevanter Daten, Spezifikation des Datenbanksystems.
-####  Umsetzung (Implementierung)
-- **Ziel:** Programmierung der Software in der gewählten Programmiersprache.
-- **Aktivitäten:** Implementierung der geplanten Funktionen, Übergang zur Testphase.
-#### Testen
-- **Ziel:** Überprüfung, ob die Software die definierten Anforderungen erfüllt.
-- **Aktivitäten:** Durchführung von Modul-, Integrations-, System- und Akzeptanztests.
-#### Auslieferung
-- **Ziel:** Bereitstellung der Software für den Auftraggeber bzw. Anwender.
-- **Aktivitäten:** Installation, Konfiguration und Übergabe an den Kunden.
-#### Wartung und Support
-- **Ziel:** Pflege der Software nach der Auslieferung.
-- **Aktivitäten:** Fehlerbehebungen, Leistungsverbesserungen, Anpassungen an neue Anforderungen.
+---
+
+## Software Lebenszyklus (SDLC)
+
+![SDLC](../assets/img/sdlc.png)
+
+- Anforderungsanalyse und Erstellung einer Spezifikation
+  - **Ziel:** Festlegung der Anforderungen an die Software.
+  - **Aktivitäten:** Erfassen von Kundenwünschen, Erstellung von Pflichten- und Lastenheften, Analyse von Geschäftsprozessen und Daten.
+- Design
+  - **Ziel:** Entwurf der Software unter Verwendung von Modellen.
+  - **Aktivitäten:** Erstellung von UML-Klassendiagrammen, Struktogrammen für Algorithmen, Abgrenzung relevanter Daten, Spezifikation des Datenbanksystems.
+- Umsetzung (Implementierung)
+  - **Ziel:** Programmierung der Software in der gewählten Programmiersprache.
+  - **Aktivitäten:** Implementierung der geplanten Funktionen, Übergang zur Testphase.
+- Testen
+  - **Ziel:** Überprüfung, ob die Software die definierten Anforderungen erfüllt.
+  - **Aktivitäten:** Durchführung von Modul-, Integrations-, System- und Akzeptanztests.
+- Auslieferung
+  - **Ziel:** Bereitstellung der Software für den Auftraggeber bzw. Anwender.
+  - **Aktivitäten:** Installation, Konfiguration und Übergabe an den Kunden.
+- Wartung und Support
+  - **Ziel:** Pflege der Software nach der Auslieferung.
+  - **Aktivitäten:** Fehlerbehebungen, Leistungsverbesserungen, Anpassungen an neue Anforderungen.
