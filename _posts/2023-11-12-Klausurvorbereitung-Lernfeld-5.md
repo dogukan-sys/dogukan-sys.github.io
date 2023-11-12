@@ -106,7 +106,7 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
 
 ## Interne Projektstruktur
 
-![projektstruktur](../assets/img/projektstruktur.png)
+![projektstruktur](assets/img/projektstruktur.png)
 
 - Lenkungsausschuss:
   - **Funktion:** Der Lenkungsausschuss ist eine übergeordnete Instanz ( Auftraggeber, Stakeholder ), die strategische Entscheidungen trifft und die Gesamtprojektleitung unterstützt indem sie Ihre Anforderung klar formuliert.
@@ -122,7 +122,7 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
 
 ## Projektphasen
 
-![projektphasen](../assets/img/projektphasen.png)
+![projektphasen](assets/img/projektphasen.png)
 
 - Projektstart:
   - **Ziel:** Klare Definition der Projektziele, Anforderungen und Hauptbeteiligten.
@@ -144,7 +144,7 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
 
 ## Software Lebenszyklus (SDLC)
 
-![SDLC](../assets/img/sdlc.png)
+![SDLC](assets/img/sdlc.png)
 
 - Anforderungsanalyse und Erstellung einer Spezifikation
   - **Ziel:** Festlegung der Anforderungen an die Software.
