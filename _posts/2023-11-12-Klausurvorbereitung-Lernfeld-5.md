@@ -68,28 +68,24 @@ tags: [lernfeld5,software,softwarearten,softwaredefinition,softwareanpassung,pro
 
 - **Erklärung:** Customizing bedeutet das Anpassen von Standardsoftware an die individuellen Wünsche des Kunden. Dabei Wird der Quellcode nicht verändert.
 **Es werden folgende Vorgehensweisen unterschieden:**
-- **Konfiguration:** Hier Wird durch die Auswahl und Konfiguration von
-entsprechenden Modulen die Software angepasst.
-- **Parametrisierung:** Hier Wird durch das Setzen von Parametern die
-Software auf den benötigten Funktionsumfang angepasst. Dabei werden
-Teile der Standardsoftware aktiviert bzw. deaktiviert.
-_Beispiel:_ In einem E-Commerce-System kannst du das Aussehen und die Farben der Benutzeroberfläche anpassen, ohne den zugrunde liegenden Code zu ändern. Dies geschieht häufig über Konfigurationsoptionen im Administrationsbereich.
+- **Konfiguration:** Hier Wird durch die Auswahl und Konfiguration von entsprechenden Modulen die Software angepasst.
+- **Parametrisierung:** Hier Wird durch das Setzen von Parametern die Software auf den benötigten Funktionsumfang angepasst. Dabei werden Teile der Standardsoftware aktiviert bzw. deaktiviert.
+- **Beispiel:** In einem E-Commerce-System kannst du das Aussehen und die Farben der Benutzeroberfläche anpassen, ohne den zugrunde liegenden Code zu ändern. Dies geschieht häufig über Konfigurationsoptionen im Administrationsbereich.
 
 ### Erweiterungsprogrammierung
 
 - **Erklärung:** Erweiterungsprogrammierung Wird zur Anpassung einer Standardsoftware genutzt, wenn die Möglichkeiten vom Customizing nicht ausreichen. Dabei Wird die Software um individuell entwickelte Programmteile erweitert,welche über definierte Schnittstellen mit dem Hauptprogramm verbunden werden.
-- _Beispiel:_ Bei Google Chrome kannst du Erweiterungen wie "AdBlock" hinzufügen, um zusätzliche Funktionen zur Blockierung von Anzeigen zu integrieren.
+- **Beispiel:** Bei Google Chrome kannst du Erweiterungen wie "AdBlock" hinzufügen, um zusätzliche Funktionen zur Blockierung von Anzeigen zu integrieren.
 
 ### Neuentwicklung
 
 - **Erklärung:** Reichen die Möglichkeiten von Customizing und Erweiterungsprogrammierung nicht aus, Wird die Software komplett neu als Individualsoftware entwickelt.
-- _Beispiel:_ Angenommen, du nutzt eine veraltete Notiz-App, die grundlegende Funktionen bietet. Die Entwickler entscheiden sich jedoch, die App von Grund auf neu zu erstellen. Die Neuentwicklung würde bedeuten, dass sie die gesamte App von Anfang an neu schreiben, um sie moderner, schneller und mit erweiterten Funktionen zu gestalten. Denke an Evernote als Beispiel, das über die Jahre mehrere Neuentwicklungen durchlaufen hat, um seinen Funktionsumfang zu erweitern.
+- **Beispiel:** Angenommen, du nutzt eine veraltete Notiz-App, die grundlegende Funktionen bietet. Die Entwickler entscheiden sich jedoch, die App von Grund auf neu zu erstellen. Die Neuentwicklung würde bedeuten, dass sie die gesamte App von Anfang an neu schreiben, um sie moderner, schneller und mit erweiterten Funktionen zu gestalten. Denke an Evernote als Beispiel, das über die Jahre mehrere Neuentwicklungen durchlaufen hat, um seinen Funktionsumfang zu erweitern.
 
 ### Datenmigration
 
-- **Erklärung:** Bei der Datenmigration Wird ein vorhandenes System zur Verwaltung von Daten durch ein neues ersetzt. Dabei müssen die Daten vom Altsystem auf
-das neue System übertragen werden.
-- _Beispiel:_  Bei der Einführung einer neuen Version von Facebook ändert das Unternehmen die Datenbankstruktur, um die Effizienz zu steigern. Die Datenmigration gewährleistet, dass alle bestehenden Benutzerprofile, Beiträge und Verbindungen ohne Datenverlust in das aktualisierte System übertragen werden.
+- **Erklärung:** Bei der Datenmigration Wird ein vorhandenes System zur Verwaltung von Daten durch ein neues ersetzt. Dabei müssen die Daten vom Altsystem aufdas neue System übertragen werden.
+- **Beispiel:** Bei der Einführung einer neuen Version von Facebook ändert das Unternehmen die Datenbankstruktur, um die Effizienz zu steigern. Die Datenmigration gewährleistet, dass alle bestehenden Benutzerprofile, Beiträge und Verbindungen ohne Datenverlust in das aktualisierte System übertragen werden.
 
 ---
 
