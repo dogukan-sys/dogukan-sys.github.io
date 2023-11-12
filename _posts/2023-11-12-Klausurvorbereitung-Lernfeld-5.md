@@ -4,7 +4,10 @@ date: 2023-11-12 03:17:00 +0200
 categories: [STD, Koenig]
 tags: [lernfeld5,software,softwarearten,softwaredefinition,softwareanpassung,projekbegriff,projektstruktur,projektphasen,sdlc,softwarelebenszyklus]
 ---
-# Aufgaben und Kompetenzen eines Entwicklers.
+
+# Klausurvorbereitung Lernfeld 5 bei König
+
+## Aufgaben und Kompetenzen eines Entwicklers.
 
 - Aufgaben:
   - Softwareentwicklung: Hier entwickelst du Anwendungen oder Systeme.
@@ -17,19 +20,20 @@ tags: [lernfeld5,software,softwarearten,softwaredefinition,softwareanpassung,pro
   - Teamarbeit: Zusammenarbeit mit anderen Entwicklern und Fachleuten.
   - Lernbereitschaft: Da sich die Technologie ständig weiterentwickelt ist kontinuierliches Lernen wichtig.
 
-# Softwaredefinition und Softwarearten.
+---
 
-## Softwaredefinition nach IEEE Standard 610.12:
+## Softwaredefinition und Softwarearten
+
+### Softwaredefinition nach IEEE Standard 610.12:
 
 - Arbeitsblatt:
-Software umfasst alle Programme, vorgeschriebenen Abläufe, Dokumentation und Daten, die zum Betrieb eines Rechnersystem erforderlich sind.
-
+  - Software umfasst alle Programme, vorgeschriebenen Abläufe, Dokumentation und Daten, die zum Betrieb eines Rechnersystem erforderlich sind.
 - [Wikipedia:](https://de.wikipedia.org/wiki/Software#Definitionen_nach_ISO/IEC-Norm_24765)
-- Software ist ein Programm oder eine Menge von Programmen, die dazu dienen, einen Computer zu betreiben.
-- Software sind Programme sowie die zugehörige Dokumentation.
-- Software sind Programme und ggf. die zugehörige Dokumentation und weitere Daten, die zum Betrieb eines Computers notwendig sind.
+  - Software ist ein Programm oder eine Menge von Programmen, die dazu dienen, einen Computer zu betreiben.
+  - Software sind Programme sowie die zugehörige Dokumentation.
+  - Software sind Programme und ggf. die zugehörige Dokumentation und weitere Daten, die zum Betrieb eines Computers notwendig sind.
 
-## Die drei Arten der Software.
+### Die drei Arten der Software
 
 - Systemsoftware:
   - Systemsoftware ist grundlegende Software, die die Hardware steuert und dem Benutzer die Interaktion mit dem Computer ermöglicht.
@@ -56,8 +60,11 @@ Software umfasst alle Programme, vorgeschriebenen Abläufe, Dokumentation und Da
   - **Eigenschaften:** Auf spezifische Anforderungen zugeschnitten, einzigartig für den Benutzer oder das Unternehmen. Flexibel und anbindbar an weitere Software im Unternehmen.
   - **Beispiele:** Kundenspezifische Unternehmensanwendungen, maßgeschneiderte Datenbanklösungen.
   
-# Arten der Softwareanpassung
-## Customizing
+---
+
+## Arten der Softwareanpassung
+
+### Customizing
 
 - **Erklärung:** Customizing bedeutet das Anpassen von Standardsoftware an die individuellen Wünsche des Kunden. Dabei Wird der Quellcode nicht verändert.
 **Es werden folgende Vorgehensweisen unterschieden:**
@@ -68,23 +75,25 @@ Software auf den benötigten Funktionsumfang angepasst. Dabei werden
 Teile der Standardsoftware aktiviert bzw. deaktiviert.
 _Beispiel:_ In einem E-Commerce-System kannst du das Aussehen und die Farben der Benutzeroberfläche anpassen, ohne den zugrunde liegenden Code zu ändern. Dies geschieht häufig über Konfigurationsoptionen im Administrationsbereich.
 
-## Erweiterungsprogrammierung
+### Erweiterungsprogrammierung
 
 - **Erklärung:** Erweiterungsprogrammierung Wird zur Anpassung einer Standardsoftware genutzt, wenn die Möglichkeiten vom Customizing nicht ausreichen. Dabei Wird die Software um individuell entwickelte Programmteile erweitert,welche über definierte Schnittstellen mit dem Hauptprogramm verbunden werden.
 - _Beispiel:_ Bei Google Chrome kannst du Erweiterungen wie "AdBlock" hinzufügen, um zusätzliche Funktionen zur Blockierung von Anzeigen zu integrieren.
 
-## Neuentwicklung
+### Neuentwicklung
 
 **Erklärung:** Reichen die Möglichkeiten von Customizing und Erweiterungsprogrammierung nicht aus, Wird die Software komplett neu als Individualsoftware entwickelt.
 _Beispiel:_ Angenommen, du nutzt eine veraltete Notiz-App, die grundlegende Funktionen bietet. Die Entwickler entscheiden sich jedoch, die App von Grund auf neu zu erstellen. Die Neuentwicklung würde bedeuten, dass sie die gesamte App von Anfang an neu schreiben, um sie moderner, schneller und mit erweiterten Funktionen zu gestalten. Denke an Evernote als Beispiel, das über die Jahre mehrere Neuentwicklungen durchlaufen hat, um seinen Funktionsumfang zu erweitern.
 
-## Datenmigration
+### Datenmigration
 
 **Erklärung:** Bei der Datenmigration Wird ein vorhandenes System zur Verwaltung von Daten durch ein neues ersetzt. Dabei müssen die Daten vom Altsystem auf
 das neue System übertragen werden.
 _Beispiel:_  Bei der Einführung einer neuen Version von Facebook ändert das Unternehmen die Datenbankstruktur, um die Effizienz zu steigern. Die Datenmigration gewährleistet, dass alle bestehenden Benutzerprofile, Beiträge und Verbindungen ohne Datenverlust in das aktualisierte System übertragen werden.
 
-# Projektbegriff
+---
+
+## Projektbegriff
 
 ## Projektdefinition nach DIN 69901
 
