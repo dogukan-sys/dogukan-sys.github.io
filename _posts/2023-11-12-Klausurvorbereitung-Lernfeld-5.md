@@ -97,7 +97,7 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
 
 ## Interne Projektstruktur
 
-![[../assets/img/projektstruktur.png]]
+![projektstruktur](../assets/img/projektstruktur.png)
 
 - Lenkungsausschuss:
   - **Funktion:** Der Lenkungsausschuss ist eine übergeordnete Instanz ( Auftraggeber, Stakeholder ), die strategische Entscheidungen trifft und die Gesamtprojektleitung unterstützt indem sie Ihre Anforderung klar formuliert.
@@ -105,30 +105,32 @@ Als Projekt wird ein Vorhaben bezeichnet, welches im Wesentlichen durch die Einm
   - **Verantwortlichkeiten:** Die Gesamtprojektleitung hat die oberste Verantwortung für das gesamte Projekt. Sie stellt sicher, dass die Projektziele erreicht werden und koordiniert die verschiedenen Teilprojekte.
 - Teilprojektleitung:
   - **Verantwortlichkeiten:** Jede Teilprojektleitung ist verantwortlich für einen spezifischen Bereich des Projekts und berichtet an die Gesamtprojektleitung.
--Projektteam:
+- Projektteam:
   - **Zusammensetzung:** Jede Teilprojektleitung hat ihr eigenes Projektteam.
   - **Aufgaben:** Das Team ist verantwortlich für die Durchführung der Aufgaben, die von der Teilprojektleitung zugewiesen wurden.
 
 # Projektphasen
-## Projektstart
-![[Pasted image 20231111235511.png]]
-#### Projektstart:
-- **Ziel:** Klare Definition der Projektziele, Anforderungen und Hauptbeteiligten.
-- **Aktivitäten:** Initiierung des Projekts, Identifizierung der Stakeholder, Festlegung von Projektparametern und Erstellung eines Projektauftrags.
-#### Projektplanung:
-- **Ziel:** Erstellung eines umfassenden Plans, der den gesamten Projektablauf abdeckt.
-- **Aktivitäten:** Aufstellen von Zeitplänen, Ressourcenallokation, Risikomanagement, Definition von Meilensteinen und Entwicklung von Kommunikationsplänen.
-#### Projektdurchführung:
-- **Ziel:** Umsetzung des Projektplans und Entwicklung der eigentlichen Softwarelösung.
-- **Aktivitäten:** Programmierung, Design, Testing, Integration und kontinuierliche Kommunikation im Team.
-#### Projektkontrolle:
-- **Ziel:** Überwachung und Steuerung des Projektablaufs, um sicherzustellen, dass Ziele erreicht werden.
-- **Aktivitäten:** Regelmäßige Fortschrittsüberprüfungen, Anpassungen des Plans bei Bedarf, Risikomanagement und Qualitätssicherung.
-#### Projektabschluss:
-- **Ziel:** Formaler Abschluss des Projekts und Übergabe der Ergebnisse an die Stakeholder.
-- **Aktivitäten:** Erstellung von Abschlussberichten, Evaluation des Projekterfolgs, Feierlichkeiten für das Team und Übergabe der Software an den Kunden.
+
+![[../assets/img/projektphasen.png]]
+
+- Projektstart:
+  - **Ziel:** Klare Definition der Projektziele, Anforderungen und Hauptbeteiligten.
+  - **Aktivitäten:** Initiierung des Projekts, Identifizierung der Stakeholder, Festlegung von Projektparametern und Erstellung eines Projektauftrags.
+- Projektplanung:
+  - **Ziel:** Erstellung eines umfassenden Plans, der den gesamten Projektablauf abdeckt.
+  - **Aktivitäten:** Aufstellen von Zeitplänen, Ressourcenallokation, Risikomanagement, Definition von Meilensteinen und Entwicklung von Kommunikationsplänen.
+- Projektdurchführung:
+  - **Ziel:** Umsetzung des Projektplans und Entwicklung der eigentlichen Softwarelösung.
+  - **Aktivitäten:** Programmierung, Design, Testing, Integration und kontinuierliche Kommunikation im Team.
+- Projektkontrolle:
+  - **Ziel:** Überwachung und Steuerung des Projektablaufs, um sicherzustellen, dass Ziele erreicht werden.
+  - **Aktivitäten:** Regelmäßige Fortschrittsüberprüfungen, Anpassungen des Plans bei Bedarf, Risikomanagement und Qualitätssicherung.
+- Projektabschluss:
+  - **Ziel:** Formaler Abschluss des Projekts und Übergabe der Ergebnisse an die Stakeholder.
+  - **Aktivitäten:** Erstellung von Abschlussberichten, Evaluation des Projekterfolgs, Feierlichkeiten für das Team und Übergabe der Software an den Kunden.
+
 # Software Lebenszyklus (SDLC)
-![[Pasted image 20231111235950.png]]
+! [Pasted image 20231111235950.png]]
 #### Anforderungsanalyse und Erstellung einer Spezifikation
 - **Ziel:** Festlegung der Anforderungen an die Software.
 - **Aktivitäten:** Erfassen von Kundenwünschen, Erstellung von Pflichten- und Lastenheften, Analyse von Geschäftsprozessen und Daten.
